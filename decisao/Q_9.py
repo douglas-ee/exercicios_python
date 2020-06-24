@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Faça um Programa que leia três números e mostre-os em ordem decrescente.
+# Faca um Programa que leia tres numeros e mostre-os em ordem decrescente.
 
 primeiro = int(input("Digite o primeiro numero: "))
 segundo = int(input("Digite o primeiro numero: "))
