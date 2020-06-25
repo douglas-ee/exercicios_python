@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-# Faça um programa que peça dois números, base e expoente, calcule e mostre o primeiro
-# número elevado ao segundo número. Não utilize a função de potência da linguagem.
+# Faça um programa que peça dois numeros, base e expoente, calcule e mostre o primeiro
+# numero elevado ao segundo numero. Nao utilize a funcao de potencia da linguagem.
 
 base = int(input("Digite a base do numero: "))
 expo = int(input("Digite o expoente do numero: "))

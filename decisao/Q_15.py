@@ -1,15 +1,15 @@
 # -*- coding: utf-8 -*-
 
 """
-Faça um Programa que peça os 3 lados de um triângulo. O programa deverá informar
-se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo,
-se o mesmo é: equilátero, isósceles ou escaleno.
+Faça um Programa que peça os 3 lados de um triangulo. O programa devera informar
+se os valores podem ser um triangulo. Indique, caso os lados formem um triangulo,
+se o mesmo eh: equilatero, isosceles ou escaleno.
 
 Dicas:
-	1. Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro;
-	2. Triângulo Equilátero: três lados iguais;
-	3. Triângulo Isósceles: quaisquer dois lados iguais;
-	4. Triângulo Escaleno: três lados diferentes;
+	1. Tres lados formam um triangulo quando a soma de quaisquer dois lados for maior que o terceiro;
+	2. Triangulo Equilatero: tres lados iguais;
+	3. Triangulo Isosceles: quaisquer dois lados iguais;
+	4. Triangulo Escaleno: tres lados diferentes;
 """
 A = int(input("Digite o Lado 1: "))
 B = int(input("Digite o Lado 2: "))
@@ -23,4 +23,4 @@ if(((A + B > C) or (A + C > B) or (B + C > A)) and (A != 0 and B != 0 and C != 0
     else:
         print("Escaleno")
 else:
-    print("Não é um triangulo")
+    print("Nao eh um triangulo")
