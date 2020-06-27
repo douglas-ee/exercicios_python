@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
 
-# Faça um programa que mostre todos os primos entre 1 e N sendo N um número inteiro
-# fornecido pelo usuário. O programa deverá mostrar também o número de divisões que
-# ele executou para encontrar os números primos. Serão avaliados o funcionamento, o
-# estilo e o número de testes (divisões) executados.
+# Faca um programa que mostre todos os primos entre 1 e N sendo N um numero inteiro
+# fornecido pelo usuario. O programa devera mostrar tambem o numero de divisoes que
+# ele executou para encontrar os numeros primos. Serao avaliados o funcionamento, o
+# estilo e o numero de testes (divisoes) executados.
 
-lista = []  # Lista Vazia, para ser adicionada os valrores que irão ser primos
-divisoes = 0  # Contador de divisões
+lista = []  # Lista Vazia, para ser adicionada os valores que irao ser primos
+divisoes = 0  # Contador de divisoes
 
-num = int(input("Digite um número: "))
+num = int(input("Digite um numero: "))
 
 for i in range(num + 1):
 
@@ -18,5 +18,5 @@ for i in range(num + 1):
     else:
         divisoes += 1
 
-print("Números primos: ", lista)
-print("Número de divisões", divisoes)
+print("Numeros primos: ", lista)
+print("Numero de divisoes", divisoes)
