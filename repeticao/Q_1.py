@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-# Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o
-# valor seja inválido e continue pedindo até que o usuário informe um valor válido.
+# Faca um programa que peca uma nota, entre zero e dez. Mostre uma mensagem caso o
+# valor seja invalido e continue pedindo até que o usuario informe um valor valido.
 
 Nota = int(input("Digite uma nota entre zero e dez: "))
 

@@ -4,10 +4,10 @@
 # isto, peca a quantidade de Turmas e a quantidade de alunos para cada
 # Turma. As Turmas nao podem ter mais de 40 alunos.
 
-Alunos_Por_Turma = [] # Lista de alunos por turma vazia a ser preenchida
+Alunos_Por_Turma = []  # Lista de alunos por turma vazia a ser preenchida
 Turma = 1
 
-N_Turmas = int(input("Quantas N_Turmas? : ")) # Informando qnt de turmas
+N_Turmas = int(input("Quantas N_Turmas? : "))  # Informando qnt de turmas
 
 for i in range(N_Turmas):
 

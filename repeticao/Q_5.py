@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Altere o programa anterior permitindo ao usuário informar as populações e as
+# Altere o programa anterior permitindo ao usuário informar as populacoes e as
 # taxas de crescimento iniciais. Valide a entrada e permita repetir a operacao.
 
 Ano = 0

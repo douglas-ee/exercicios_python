@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Faca um programa que leia 5 números e informe o maior numero.
+# Faca um programa que leia 5 numeros e informe o maior numero.
 
 N_1 = int(input("Digite o 1º numero: "))
 N_2 = int(input("Digite o 2º numero: "))

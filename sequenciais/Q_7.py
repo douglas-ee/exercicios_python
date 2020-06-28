@@ -8,4 +8,5 @@ Area = Lado ** 2
 
 Area_Ao_Dobro = Area * 2
 
-print("O valor do lado, da Area, e da Area dobrada em metros é respectivamente: {}, {}, {}".format(Lado, Area, Area_Ao_Dobro))
+print("O valor do lado, da Area, e da Area dobrada em metros é respectivamente: {}, {}, {}".format(
+    Lado, Area, Area_Ao_Dobro))

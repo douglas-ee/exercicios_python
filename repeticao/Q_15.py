@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# A serie de Fibonacci é formada pela sequencia 1,1,2,3,5,8,13,21,34,55,...
+# A serie de Fibonacci eh formada pela sequencia 1,1,2,3,5,8,13,21,34,55,...
 # Faca um programa capaz de gerar a serie ate o n−esimo termo.
 
 fibo = [1, 1]
