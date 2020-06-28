@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-# Faça um programa que calcule o número médio de alunos por Turma. Para
-# isto, peça a quantidade de Turmas e a quantidade de alunos para cada
-# Turma. As Turmas não podem ter mais de 40 alunos.
+# Faca um programa que calcule o numero medio de alunos por Turma. Para
+# isto, peca a quantidade de Turmas e a quantidade de alunos para cada
+# Turma. As Turmas nao podem ter mais de 40 alunos.
 
 Alunos_Por_Turma = [] # Lista de alunos por turma vazia a ser preenchida
 Turma = 1
@@ -17,7 +17,7 @@ for i in range(N_Turmas):
     while alunos > 40:
         print("Turma ", Turma, " [uma Turma só pode ter 40 alunos]")
         alunos = int(input("Alunos da Turma : "))
-    
+
     Alunos_Por_Turma.append(alunos)
     Turma += 1
 
