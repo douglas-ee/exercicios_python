@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# AQUI VAMOS APRENDER UM POUCO SOBRE LAÇOS DE REPETICAO
+# AQUI VAMOS APRENDER UM POUCO SOBRE LACOS DE REPETICAO
 
 # LACO DE REPETICAO WHILE
 x = 0
@@ -8,7 +8,7 @@ while (x < 10):
     print(x)
     x += 1
 
-# LAÇO DE REPETICAO FOR
+# LACO DE REPETICAO FOR
 lista1 = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 lista2 = ['Zero', 'Um', 'Dois', 'Três', 'Quatro',
           'Cinco', 'Seis', 'Sete', 'Oito', 'Nove']
