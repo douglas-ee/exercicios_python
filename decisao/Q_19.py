@@ -17,7 +17,8 @@ if Num_Qt == 3:
     centena = Num[0:1]
     dezena = Num[1:2]
     unidade = Num[2:3]
-    print(Num+" = "+centena+" centenas , "+dezena+" dezenas, "+unidade + " unidades")
+    print(Num+" = "+centena+" centenas , " +
+          dezena+" dezenas, "+unidade + " unidades")
 
 if Num_Qt == 2:
     dezena = Num[0:1]

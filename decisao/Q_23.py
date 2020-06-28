@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Faca um Programa que peca um número e informe se o numero eh inteiro ou decimal.
+# Faca um Programa que peca um numero e informe se o numero eh inteiro ou decimal.
 # Dica: utilize uma funcao de arredondamento.
 
 Num = float(input("Informe um número: "))

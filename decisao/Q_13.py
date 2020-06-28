@@ -1,23 +1,23 @@
 # -*- coding: utf-8 -*-
 
-# Faça um Programa que leia um número e exiba o dia correspondente da semana.
+# Faca um Programa que leia um numero e exiba o dia correspondente da semana.
 # (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor invalido.
 
 Num = int(input("Digite um valor de 1 à 7 referente aos dias da semana: "))
 
 if(Num == 1):
-	print("Domingo")
+    print("Domingo")
 elif(Num == 2):
-	print("Segunda")
+    print("Segunda")
 elif(Num == 3):
-	print("Terça")
+    print("Terca")
 elif(Num == 4):
-	print("Quarta")
+    print("Quarta")
 elif(Num == 5):
-	print("Quinta")
+    print("Quinta")
 elif(Num == 6):
-	print("Sexta")
+    print("Sexta")
 elif(Num == 7):
-	print("Sabado")
+    print("Sabado")
 else:
-	print("Valor Invalido")
+    print("Valor Invalido")

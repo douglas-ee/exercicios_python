@@ -19,7 +19,8 @@ dados_p = [("morango", 2.50, 2.20), ("maçã", 1.80, 1.50)]
 while True:
     finalizar = False
 
-    produto = input("Por favor, informe o produto desejado (Morango ou Maçã): ")
+    produto = input(
+        "Por favor, informe o produto desejado (Morango ou Maçã): ")
 
     for i in range(2):
         if produto.lower() == dados_p[i][0]:

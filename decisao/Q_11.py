@@ -34,4 +34,5 @@ Aumento = Salario - Salario_A
 
 Percentual = Aumento / Salario_A
 
-print("Antes: {}R$, Percentual: {}%, Aumento: {}R$, Salario: {}R$".format(Salario_A, Percentual, Aumento, Salario))
+print("Antes: {}R$, Percentual: {}%, Aumento: {}R$, Salario: {}R$".format(
+    Salario_A, Percentual, Aumento, Salario))

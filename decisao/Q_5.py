@@ -14,11 +14,9 @@ Nota_2 = float(input("Digite a primeira nota do aluno: "))
 Media = (Nota_1 + Nota_2) / 2
 
 if(Media == 10):
-	print("Aprovado com Distinção")
+    print("Aprovado com Distinção")
 else:
-	if(Media >= 7.0):
-		print("Aprovado")
-	else:
-		print("Reprovado")
-
-	
+    if(Media >= 7.0):
+        print("Aprovado")
+    else:
+        print("Reprovado")

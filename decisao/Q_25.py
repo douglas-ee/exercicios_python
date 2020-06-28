@@ -15,7 +15,8 @@ entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será cl
 
 classificado = 0
 
-status = {0: "Inocente",1: "Inocente",2: "Suspeito(a)",3: "Cúmplice",4: "Cúmplice",5: "Assassino"}
+status = {0: "Inocente", 1: "Inocente",
+          2: "Suspeito(a)", 3: "Cúmplice", 4: "Cúmplice", 5: "Assassino"}
 
 perguntas = ["Telefonou para a vítima? ", "Esteve no local do crime? ", "Mora perto da vítima? ",
              "Devia para a vítima? ", "Já trabalhou com a vítima? "]
